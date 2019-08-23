@@ -1,8 +1,27 @@
 # Degree
-- degree: PhD Experimental Quantum Physics
+- degree: PhD, Experimental Quantum Physics
   uni: The University od Sydney
   year: 2014 &mdash; 2018
   awards:
     - award: PREA, PRSS, APA
   responsibilities: >
-  achievments: >
+    <h4>KEY RESPONSIBILITIES</h4>
+    Perform citing-edge research in experimental quantum physics, collecting and analysing
+    hundreds of gigabytes of data to find novel light-matter phenomena. Build test and document
+    electrical, mechanical and optical system to measure single-photon interactions. Present to
+    international conferences and publish to leading scientific journals in the field.
+
+  achievements: >
+    <h4>KEY ACHIEVEMENTS</h4>
+    <ul class="resume-item-list">
+      <li>Invited to speak at two summer schools as well as the Max Plank Institute for Light</li>
+      <li>Mentored and supervised four students in an ultrafast high-power laser laboratory</li>
+      <li>Built an ultra-fast free-space optical setup to perform non-linear optical experiments on
+        ultra-thin surfaces, including confocal single-photon imaging in visible and near infrared</li>
+      <li>Built a single-photon HBT interferometer to measure light statistics (intensity autocorrelation),
+      and a time-gated single-photon spectrometer to reconstruct spectral shape of extremely weak signals
+      (partially in https://bit.ly/2rI5HqL)</li>
+      <li>Devised a simulation tool to estimate the SNR of spontaneous downconversion, a quantum mechanical
+       phenomenon that might occur in free-space other than in bulk (https://bit.ly/2Gqmhpm)</li>
+      <li>Contributed designing a ultra-fast pulse shaper in free-space (https://bit.ly/2CklmCv)</li>
+    </ul>
