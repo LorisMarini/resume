@@ -1,8 +1,7 @@
-# Resume template
+# Resume
+*A simple Jekyll + GitHub Pages powered resume template. Project cloned and adapted from https://github.com/jglovier/resume-template*
 
-*A simple Jekyll + GitHub Pages powered resume template.*
-
-![img](images/screenshot.png)
+![img](social_preview.png)
 
 ## Docs
 
