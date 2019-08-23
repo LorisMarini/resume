@@ -24,11 +24,10 @@ resume_header_contact_info:     "U23 / 767 Botany Road • 0468 561 278 • lore
 display_header_contact_info:    "false"
 
 resume_header_intro: >
-  <p>I am critical thinker and team-player, with distinguished people skills and diverse technical background.
-  I enjoy sharing knowledge and presenting in public, and I like simple solutions to complex problems.
-  In my last experience, I worked at the intersection of data analysis, software development, and data engineering
-  to develop a data-driven culture in a vibrant startup. I work best in small teams with complementary skills,
-  where ideas flow fast and the technology developed improves people’s lives.</p>
+  <p>I am a critical thinker and team-player, with distinguished people skills and a diverse technical background.
+  I enjoy building stuff, sharing knowledge, and presenting in public. I like simple solutions to complex problems
+  and I give my best in cross-functional roles across data analysis, software development,
+  and data engineering. I get excited when ideas flow fast and technology is used to improves people’s lives.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

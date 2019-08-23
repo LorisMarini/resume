@@ -1,12 +1,10 @@
 # Degree
 - degree: PhD, Experimental Quantum Physics
-  uni: The University od Sydney
+  uni: The University of Sydney
   year: 2014 &mdash; 2018
-  awards:
-    - award: PREA, PRSS, APA
   responsibilities: >
     <h4>KEY RESPONSIBILITIES</h4>
-    Perform citing-edge research in experimental quantum physics, collecting and analysing
+    Perform cutting-edge research in experimental quantum physics, collecting and analysing
     hundreds of gigabytes of data to find novel light-matter phenomena. Build test and document
     electrical, mechanical and optical system to measure single-photon interactions. Present to
     international conferences and publish to leading scientific journals in the field.
@@ -14,14 +12,45 @@
   achievements: >
     <h4>KEY ACHIEVEMENTS</h4>
     <ul class="resume-item-list">
-      <li>Invited to speak at two summer schools as well as the Max Plank Institute for Light</li>
+      <li>Invited to
+      <a href="https://github.com/LorisMarini/thesis" target="_blank">
+        present
+      </a>
+       at two summer schools as well as the Max Plank Institute for Light</li>
       <li>Mentored and supervised four students in an ultrafast high-power laser laboratory</li>
       <li>Built an ultra-fast free-space optical setup to perform non-linear optical experiments on
         ultra-thin surfaces, including confocal single-photon imaging in visible and near infrared</li>
       <li>Built a single-photon HBT interferometer to measure light statistics (intensity autocorrelation),
-      and a time-gated single-photon spectrometer to reconstruct spectral shape of extremely weak signals
-      (partially in https://bit.ly/2rI5HqL)</li>
+      and a time-gated single-photon spectrometer to reconstruct
+      <a href="https://aip.scitation.org/doi/abs/10.1063/1.4997333?journalCode=apl&" target="_blank">
+        the spectral shape of extremely weak signals
+      </a>
+      </li>
       <li>Devised a simulation tool to estimate the SNR of spontaneous downconversion, a quantum mechanical
-       phenomenon that might occur in free-space other than in bulk (https://bit.ly/2Gqmhpm)</li>
-      <li>Contributed designing a ultra-fast pulse shaper in free-space (https://bit.ly/2CklmCv)</li>
+       phenomenon known to occur in free-space other than in bulk but
+       <a href="https://www.osapublishing.org/josab/abstract.cfm?uri=josab-35-4-672" target="_blank">
+         never before observerd in 2D materials
+       </a>
+       </li>
+      <li>Contributed designing a ultra-fast pulse shaper in free-space
+      <a href="https://www.osapublishing.org/oe/abstract.cfm?uri=oe-24-1-545" target="_blank">
+        pulse shaper in free-space
+      </a>
+      </li>
+    </ul>
+
+
+- degree: B.E., M.E. in Information Engineering
+  uni: Tor Vergata University
+  year: 2006 &mdash; 2012
+  achievements: >
+    <h4>KEY ACHIEVEMENTS</h4>
+    <ul class="resume-item-list">
+      <li>Selected to conduct experimental work at the German Aerospace Agency</li>
+      <li>Majored with 110/110 Cum Laude in optical communications, internet security, and advanced communication systems</li>
+      <li>Founded the local
+        <a href="https://www.ieee.org/membership/students/branches/index.html" target="_blank">
+          IEEE student branch
+        </a>
+      to disseminate knowledge and stimulate collaboration</li>
     </ul>
