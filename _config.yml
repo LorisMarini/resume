@@ -23,7 +23,12 @@ resume_contact_address:         "U23 / 767 Botany Road"
 resume_header_contact_info:     "U23 / 767 Botany Road • 0468 561 278 • lorenzo.marini.au@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am critical thinker and team-player, with distinguished people skills and diverse technical back- ground. I enjoy sharing knowledge and presenting in public, and I like simple solutions to complex problems. In my last experience, I worked at the intersection of data analysis, software develop- ment, and data engineering to develop a data-driven culture in a vibrant startup. I work best in small teams with complementary skills, where ideas flow fast and the technology developed improves people’s lives.</p>"
+resume_header_intro: >
+  <p>I am critical thinker and team-player, with distinguished people skills and diverse technical background.
+  I enjoy sharing knowledge and presenting in public, and I like simple solutions to complex problems.
+  In my last experience, I worked at the intersection of data analysis, software development, and data engineering
+  to develop a data-driven culture in a vibrant startup. I work best in small teams with complementary skills,
+  where ideas flow fast and the technology developed improves people’s lives.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
