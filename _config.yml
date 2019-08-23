@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Loris Marini"
-resume_title:                   "Data Engineer"
+resume_title:                   "Engineer and Scientist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lorenzo.marini.au@gmail.com"
@@ -36,10 +36,10 @@ resume_looking_for_work:        "yes"
 resume_section_recognition:     true
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
 resume_section_interests:       true
+resume_section_projects:        true
 
+resume_section_skills:          false
 resume_section_associations:    false
 resume_section_links:           false
 

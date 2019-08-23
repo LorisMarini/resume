@@ -43,20 +43,15 @@
 
 - award:
   organization: The University of Sydney (Physics)
-  year: 2018 &mdash; 2018
-  summary: >
-    Completed a PhD in experimental quantum physics with minimal support, demonstrating first-class
-    resource management skills, resourcefullness and grit.
-
-- award:
-  organization: The University of Sydney (Physics)
   year: 2014 &mdash; 2018
   summary: >
     Recipient of three awards for distinguished academic achievements (PREA, APA, PRSS).
     Invited speaker at the Max Plank Institute for Light to present my breakthroughs in quantum optics.
+    Completed a PhD in experimental quantum physics with minimal support, demonstrating first-class
+    resource management skills, resourcefullness and grit.
 
 - award:
-  organization: The University of Sydney (Data Science)
+  organization: The University of Sydney (Machine Learning)
   year: 2015 &mdash; 2015
   summary: >
     Devised a distributed and decentralized learning algorithm based on reinforcement learning (RL)

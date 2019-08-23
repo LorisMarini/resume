@@ -2,8 +2,13 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Mydomain (side-project)
+  role: Lead Developer
+  duration: 2019 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: >
+    I wanted more personalised property recommendations that what I could find in the
+    vanilla Domain app. Things like distance from childcares, train stations, parks and
+    favourite beach, as well as timber floor, listing age and hotness. This project uses
+    Domain and Google APIs together with public datasets to build the necessary
+    dataset to rank and recommend the top 3 inspections to see in any given weekend.
