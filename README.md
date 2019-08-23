@@ -3,7 +3,22 @@
 
 ![img](social_preview.png)
 
-## Docs
+## Changes to the Template
+
+I made some changes to the structure of the content in `_data` and `_layouts/resume.html`.
+
+The favicon is personalised using my avatar (the guy with beanie and tilted head LOL) and is loaded by Github Pages simply by updating line 17 in `_layouts/head.html`. Remember to remove the forward slash (`/`) when specifying the file name as [@LazaroIbanez](https://medium.com/@LazaroIbanez/how-to-add-a-favicon-to-github-pages-403935604460) pointed out in his Medium article.
+
+The layout is slightly changed as well, with keys `environment`, `responsibilities` and `achievements` keys. Surely more verbose than what [@jglovier](https://github.com/jglovier/resume-template) did, but I think it's worth it. Because these fields are loaded conditionally in `_layouts/resume.html`, remember to change the key names there as well.
+
+All hyperlinks in `_includes/icon-links.html` have `target="_blank"` in order to open new tabs and keep the reader focused.
+
+Finally, I took a screenshot and cropped it to 1.6 ratio called `social_preview.png` which I then loaded in the homonym section in the repo settings. I suppose this is the magic that allows to load a preview when sharing the link on Slack/Telegram etc.
+
+I removed the `gh-pages` branch and decided to work from master for the time being to k.i.s.s. :D
+
+
+## Docs - Original from [@jglovier](https://github.com/jglovier/resume-template)
 
 ### Running locally
 
