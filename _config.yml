@@ -2,6 +2,9 @@
 title: "Loris Marini Resume"
 description: "Resume using Jekyll and GitHub Pages sites."
 
+plugins:
+  - jekyll-seo-tag
+  
 # Build settings
 markdown: kramdown
 sass:
