@@ -4,7 +4,7 @@ description: "Resume using Jekyll and GitHub Pages sites."
 
 plugins:
   - jekyll-seo-tag
-  
+
 # Build settings
 markdown: kramdown
 sass:
@@ -14,7 +14,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Loris Marini"
-resume_title:                   "Engineer and Scientist"
+resume_title:                   "Data Engineer and Scientist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lorenzo.marini.au@gmail.com"
