@@ -1,10 +1,51 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award:
+  organization: Autopilot
+  year: 2018, 2019
+  summary: Succeeded as a engineer and analyst in a fast-paced software startup as a first data hire. Promoted by the initiative of the director of engineering, as a recognition for the hard work, and the ability to contribute and execute the company’s data strategy.
+
+- award:
+  organization: Autopilot (Data Science)
+  year: March 2018 - September 2018
+  summary: Worked cross-functionally to implement anomaly detection and ranking alogirithms, and release a new AI dashboard to more than 20,000 users.
+
+- award:
+  organization: Autopilot (Data Engineering)
+  year: September 2018 - January 2019
+  summary: Designed infrastructure to replaced legacy ETL (bash) with a self-hosted docker-based Apache Airflow application (Python). This was first deployed to AWS then migrated to GCP to integrate with Google analytics offering. Built data warehouse in BigQuery including database structrue, table schema and clever table partitions.
+
+- award:
+  organization: Autopilot (Data Science)
+  year: January - August 2019
+  summary: Built datasets to measure, analyse and report profiles of more than 4,000 customers. This was used to model user engagement, implement proactive support, personalize marketing and reduce churn rate.
+
+- award:
+  organization: Autopilot (Data Science)
+  year: 2018, 2019
+  summary: Ideated, co-designed and built the autopilot data-loop, an interactive web app for business intelligence. This alone saved more than 1000 hours of unreproducible manual labor, unleashed the power of data by merging domain knowledge and bare numbers, and contributed to define the company data strategy.
+
+- award:
+  organization: The University of Sydney (Physics)
+  year: 2018, 2018
+  summary: Completed a PhD in experimental quantum physics with minimal support, demonstrating first-class resource management skills, resourcefullness and grit.
+
+- award:
+  organization: The University of Sydney (Physics)
+  year: 2014, 2018
+  summary: Recipient of three awards for distinguished academic achievements (PREA, APA, PRSS).
+
+- award:
+  organization: The University of Sydney (Physics)
+  year: 2017, 2017
+  summary: Invited speaker at the Max Plank Institute for Light to present my breakthroughs in quantum optics.
+
+- award:
+  organization: The University of Sydney (Data Science)
+  year: 2015, 2015
+  summary: Devised a distributed and decentralized learning algorithm based on reinforcement learning (RL) to solve computationally intractable problems (NP-hard) in cellular networks.
+
+- award:
+  organization: German Aerospace Agency (Software Engineering)
+  year: 2011, 2012
+  summary: Contributed to a multi-million dollar project with the EU to model, quantify and report on ways to improve the bandwidth in geostationary satellite systems, assess costs and risks.
