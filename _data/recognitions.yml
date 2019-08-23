@@ -4,62 +4,61 @@
   organization: Autopilot
   year: 2018, 2019
   summary: >
-    Succeeded as a engineer and analyst in a fast-paced software startup as a first data hire.
-    Promoted by the initiative of the director of engineering, as a recognition for the hard work,
+    Succeeded as an engineer and analyst in a <i>software startup</i> as a <i>first data hire</i>.
+    <i>Promoted</i> by the initiative of the director of engineering, as a recognition for the hard work,
     and the ability to contribute and execute the company’s data strategy.
 
 - award:
   organization: Autopilot (Data Science)
   year: March 2018 - September 2018
   summary: >
-    Worked cross-functionally to implement anomaly detection and ranking alogirithms,
-    and release a new AI dashboard to more than 20,000 users.
+    Worked cross-functionally to implement <i>anomaly detection</i> and <i>ranking</i> alogirithms,
+    effective <i>data visualisations</i>, and product releases to more than <i>20,000 users</i>.
 
 - award:
   organization: Autopilot (Data Engineering)
   year: Sep, 2018 &mdash; Jan, 2019
   summary: >
-    Designed infrastructure to replaced legacy ETL (bash) with a self-hosted docker-based
-    Apache Airflow application (Python). This was first deployed to AWS then migrated to
-    GCP to integrate with Google analytics offering. Built data warehouse in BigQuery including
-    database structrue, table schema and clever table partitions.
+    Designed infrastructure to replaced legacy ETL (bash) with a self-hosted, docker-based
+    <i>Apache Airflow</i> multi-cloud application. Leveraged Google's SQL interface to mapreduce (BigQuery),
+    to reduced the data aggregation time <b>from 3 hours to 8 seconds</b> at the cost of a few cents.
 
 - award:
   organization: Autopilot (Data Science)
   year: Jan, 2019 &mdash; Aug, 2019
   summary: >
-    Built datasets to measure, analyse and report profiles of more than 4,000 customers.
-    This was used to model user engagement, implement proactive support, personalize marketing
-    and reduce churn rate.
+    Built datasets to model <b>user engagement</b>, personalize marketing and
+    nurture our customers, with the ultimate goal to <b>reduce churn</b>.
 
 - award:
   organization: Autopilot (Data Science)
   year: 2018 &mdash; 2019
   summary: >
-    Ideated, co-designed and built the autopilot data-loop, an interactive web app for
-    business intelligence. This alone saved more than 1000 hours of unreproducible manual labor,
-    unleashed the power of data by merging domain knowledge and bare numbers, and contributed to
-    define the company data strategy.
+    In order to <b>save more than 1000 hours</b> of unreproducible manual labor, I ideated,
+    co-designed and implemented Autopilot's <i>data-loop</i>, an interactive web app
+    for business intelligence. As a side-effect this merged <b>data and domain knowledge</b>,
+    empowering teams and contributing to define a clear data strategy.
 
 - award:
   organization: The University of Sydney (Physics)
   year: 2014 &mdash; 2018
   summary: >
-    Recipient of three awards for distinguished academic achievements (PREA, APA, PRSS).
-    Invited speaker at the Max Plank Institute for Light to present my breakthroughs in quantum optics.
-    Completed a PhD in experimental quantum physics with minimal support, demonstrating first-class
-    resource management skills, resourcefullness and grit.
+    Recipient of three awards for distinguished <b>academic performance</b>. Invited speaker at
+    the <b>Max Plank Institute for Light</b> to present advances in quantum optics. Completed a PhD
+    in experimental <b>quantum physics</b>, demonstrating effective resource management skills,
+    perseverance in the face of uncertainty, and rigour.
 
 - award:
   organization: The University of Sydney (Machine Learning)
   year: 2015 &mdash; 2015
   summary: >
-    Devised a distributed and decentralized learning algorithm based on reinforcement learning (RL)
+    Devised a distributed and decentralized learning algorithm based on <b>reinforcement learning (RL)</b>
     to solve computationally intractable problems (NP-hard) in cellular networks.
 
 - award:
   organization: German Aerospace Agency (Software Engineering)
   year: 2011 &mdash; 2012
   summary: >
-    Contributed to a multi-million dollar project with the EU to model, quantify and
-    find solutions to improve the bandwidth in geostationary satellite systems, assess costs and risks.
+    Contributed to a multimillion-dollar software project with the EU to model,
+    quantify, and simulate noise and interference in MIMO satellite systems,
+    in order to <b>increase speed without redeploying expensive payloads</b>.

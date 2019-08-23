@@ -13,33 +13,32 @@
   responsibilities: >
     <h4>KEY RESPONSIBILITIES</h4>
     Responsible for the design, implementation, and deployment of anomaly detection models
-    and reporting tools to empower and engage our users (AI dashboard). Write production-ready
+    and reporting tools to empower and engage users. Write production-ready
     code including automated testing and deployment. Help identify ways to extract value from
     the product metadata and summarise key outcomes with rigorous and compelling presentations
     to relevant stakeholders.
   achievements: >
     <h4>KEY ACHIEVEMENTS</h4>
     <ul class="resume-item-list">
-      <li>Proposed initiatives to extract value from structured and unstructured data, shipping production-grade
-       unix and Python code (Docker scripting, CICD, unit and integration testing)</li>
-      <li>Promoted to a senior data scientist, as recognition for hard work and ability to lead to the data vision</li>
-      <li>Proactively researched and implemented ETL pipelines in Apache Airflow, replacing legacy bash scripting
-       and enabling horizontal and vertical scaling of the computation power</li>
-      <li>Led the design provisioning and implementation of an analytics warehouse for ELT based on Google BigQuery,
+      <li>Proposed initiatives to extract value from structured and unstructured data, shipping production-grade code
+       using <b>Docker</b>, <b>Python</b>, <b>CICD</b> and <b>integration testing</b></li>
+      <li>Promoted to a <b>senior</b>, as recognition for hard work and ability to lead to the data vision</li>
+      <li>Proactively researched and implemented ETL pipelines in Apache <b>Airflow</b>, replacing legacy bash scripting,
+       and enabling horizontal scaling of resources via <b>k8s</b></li>
+      <li>Led the design provisioning and implementation of an analytics warehouse for <b>ELT</b> based on Google <b>BigQuery</b>,
        to enable flexible and cost-effective queries and overcome the constraints of single-node in-memory operations</li>
-      <li>Led continuous improvements to the data architecture, first in AWS with services such as ec2, s3,
-       kinesis, then in GCP with compute engine, gcs, gke, sql and k8s</li>
+      <li>Led continuous improvements to the data architecture, first in AWS with services such as <b>ec2</b>, <b>s3</b>,
+       <b>kinesis</b>, then in GCP with <b>vms</b>, <b>gcs</b>, <b>gke</b>, <b>sql</b> and <b>k8s</b></li>
       <li>Initiated work to securely handle sensitive information first through transparent encryption with
-       transcrypt then with managed enterprise services such as Hashicorp Vault</li>
-      <li>Modelled and measured product metadata to identify friction, engagement, proficiency and user
+       transcrypt then with managed enterprise services such as Hashicorp <b>Vault</b></li>
+      <li>Modelled and measured product metadata to identify friction, engagement, proficiency, and
        effectiveness, and support data-driven decision-making</li>
-      <li>Designed and implemented the Autopilot data loop, an interactive web app based on Dash and Plotly
-       to inform success and marketing teams and save hundreds of hours of manual operations</li>
-      <li>Helped the CEO with cost forecasting and prototyped ways to automate the user onboarding process
-       to reduce the load on the customer success team. Also modelled expansion and contraction and measured
-        the effect of various pricing changes over time</li>
+      <li>Designed and implemented the Autopilot data loop, an interactive web app based on <b>Dash</b> and <b>Plotly</b>
+       to inform success and marketing teams, and <b>save hundreds of hours</b> of manual operations</li>
+      <li>Helped CEO with cost forecasting, and prototyped ways to automate the user onboarding process
+       to free resources. Modelled <b>expansion and contraction</b> and measured the effect of various pricing changes over time</li>
       <li>Prototyped a system to measure user proficiency and inform a personalised recommendation engine
-       to maximise engagement and customer lifetime value</li>
+       to maximise engagement and <b>customer lifetime value</b></li>
       <li>Contributed to hiring and played an important role in reinforcing a culture of collaboration,
        inclusion and critical thinking</li>
     </ul>
@@ -51,7 +50,7 @@
   environment: >
     <h4>ENVIRONMENT</h4>
     <ul class="resume-item-list">
-      <li>Research Team - School of Electrical Engineering</li>
+      <li>Research team - School of Electrical Engineering</li>
       <li>>20 PhD and Post Doctorates, hundreds of postgraduate engineering students</li>
     </ul>
   responsibilities: >
@@ -64,7 +63,7 @@
     <ul class="resume-item-list">
       <li>Applied state-of-art reinforcement learning (RL) to distributed systems, and demonstrated
       linear-time solutions of computationally intractable problems (non-polynomial hard)</li>
-      <li>Presented the work to two leading international conferences (ICC London, ICT Sydney)</li>
+      <li>Presented the work to two leading international conferences (ICC, ICT)</li>
       <li>Worked as assistant lecturer and tutored students in experimental physics</li>
     </ul>
 
