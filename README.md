@@ -19,6 +19,8 @@ I removed the `gh-pages` branch and decided to work from master for the time bei
 
 I added the seo plugin to make it easier to find the page online [see docs](https://help.github.com/en/articles/search-engine-optimization-for-github-pages)
 
+I added the plugin `jekyll-analytics` and configured Google Analytics to have fun tracking traffic
+
 ## Docs - Original from [@jglovier](https://github.com/jglovier/resume-template)
 
 ### Running locally

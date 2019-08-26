@@ -4,6 +4,7 @@ description: "Resume using Jekyll and GitHub Pages sites."
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-analytics
 
 # Build settings
 markdown: kramdown
@@ -60,6 +61,13 @@ resume_print_social_links:      true
 
 # Design settings
 resume_theme:                   default
+
+# Configure Google Analytics
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-146412145-1      # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
 
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
