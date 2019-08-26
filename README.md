@@ -13,10 +13,11 @@ The layout is slightly changed as well, with keys `environment`, `responsibiliti
 
 All hyperlinks in `_includes/icon-links.html` have `target="_blank"` in order to open new tabs and keep the reader focused.
 
-Finally, I took a screenshot and cropped it to 1.6 ratio called `social_preview.png` which I then loaded in the homonym section in the repo settings. I suppose this is the magic that allows to load a preview when sharing the link on Slack/Telegram etc.
+I took a screenshot and cropped it to 1.6 ratio called `social_preview.png` which I then loaded in the homonym section in the repo settings. I suppose this is the magic that allows to load a preview when sharing the link on Slack/Telegram etc.
 
 I removed the `gh-pages` branch and decided to work from master for the time being to k.i.s.s. :D
 
+I added the seo plugin to make it easier to find the page online [see docs](https://help.github.com/en/articles/search-engine-optimization-for-github-pages)
 
 ## Docs - Original from [@jglovier](https://github.com/jglovier/resume-template)
 
