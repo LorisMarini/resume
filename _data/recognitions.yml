@@ -5,8 +5,12 @@
   year: 2018, 2019
   summary: >
     Succeeded as an engineer and analyst in a <i>software startup</i> as a <i>first data hire</i>.
-    <i>Promoted</i> by the initiative of the director of engineering, as a recognition for the hard work,
-    and the ability to contribute and execute the company’s data strategy.
+    Ideated, co-designed and implemented Autopilot's <i>data-loop</i>, an interactive web app
+    for business intelligence. This also allowed to merge <b>data & domain knowledge</b>,
+    allowing teams to <b>save more than 1000 hours</b> of unreproducible manual work,
+    and contributing to define a clear data strategy. <i>Promoted</i> by the initiative of the
+    director of engineering, as a recognition for the hard work, and the ability to
+    execute the company’s data strategy.
 
 - award:
   organization: Autopilot (Data Science)
@@ -17,7 +21,7 @@
 
 - award:
   organization: Autopilot (Data Engineering)
-  year: Sep, 2018 &mdash; Jan, 2019
+  year: September 2018 &mdash; Jannuary 2019
   summary: >
     Designed infrastructure to replaced legacy ETL (bash) with a self-hosted, docker-based
     <i>Apache Airflow</i> multi-cloud application. Leveraged Google's SQL interface to mapreduce (BigQuery),
@@ -25,19 +29,10 @@
 
 - award:
   organization: Autopilot (Data Science)
-  year: Jan, 2019 &mdash; Aug, 2019
+  year: Jannuary 2019 &mdash; August 2019
   summary: >
     Built datasets to model <b>user engagement</b>, personalize marketing and
     nurture customers, with the goal to <b>reduce churn</b>.
-
-- award:
-  organization: Autopilot (Data Science)
-  year: 2018 &mdash; 2019
-  summary: >
-    Ideated, co-designed and implemented Autopilot's <i>data-loop</i>, an interactive web app
-    for business intelligence. This also allowed to merge <b>data & domain knowledge</b>,
-    allowing teams to <b>save more than 1000 hours</b> of unreproducible manual work,
-    and contributing to define a clear data strategy.
 
 - award:
   organization: The University of Sydney (Physics)
