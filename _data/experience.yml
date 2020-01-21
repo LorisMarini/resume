@@ -1,7 +1,28 @@
 # Jobs
+- company: Sendle
+  position: Data Engineer
+  duration: October 2019 - Present
+  environment: >
+    <h4>ENVIRONMENT</h4>
+    <ul class="resume-item-list">
+      <li>Logistics Scaleup - Tech - (B2B, B2C)</li>
+      <li>Reporting to CTO and Tech Lead</li>
+      <li>Hired to redesign the company's data analytics architectures</li>
+    </ul>
+  responsibilities: >
+    <h4>KEY RESPONSIBILITIES</h4>
+    Build a new analytics system to ingest, transform, document, version control,
+    explore, and audit the company's data. Owner of the data ingestion and transformation layers.
+
+  achievements: >
+  <h4>KEY ACHIEVEMENTS</h4>
+  <ul class="resume-item-list">
+    <li>//TODO></li>
+  </ul>
+
 - company: Autopilot
   position: Data Engineer & Data Analyst
-  duration: March, 2018 &mdash; Present
+  duration: March 2018 - September 2019
   environment: >
     <h4>ENVIRONMENT</h4>
     <ul class="resume-item-list">
@@ -46,7 +67,7 @@
 
 - company: The University of Sydney
   position: Assistant Lecturer and Researcher
-  duration: 2013 &mdash; 2014
+  duration: 2013 - 2014
   environment: >
     <h4>ENVIRONMENT</h4>
     <ul class="resume-item-list">
@@ -70,7 +91,7 @@
 
 - company: German Aerospace Agency (DLR)
   position: Research Intern
-  duration: 2011 &mdash; 2012
+  duration: 2011 - 2012
   environment: >
     <h4>ENVIRONMENT</h4>
     <ul class="resume-item-list">
@@ -95,7 +116,7 @@
 
   # - company:
   #   position:
-  #   duration: FROM &mdash; TO
+  #   duration: FROM - TO
   #   environment: >
   #     <h4>ENVIRONMENT</h4>
   #     <ul class="resume-item-list">

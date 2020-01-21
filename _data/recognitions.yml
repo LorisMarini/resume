@@ -1,42 +1,48 @@
 # Recognitions
 
 - award:
+  organization: Sendle (Data Engineering)
+  year: October 2019 - Jannuary 2020
+  summary: >
+    Redesigned the data analytics architecture based on Fivetran, Snowflake, DBT and Tableau.
+    Conducted user interviews, authored documentation, prepared training material, and led a
+    multi-disciplinary data team to migrate models and dashboards in the new system.
+
+- award:
   organization: Autopilot
-  year: 2018, 2019
+  year: 2018 - 2019
   summary: >
     Succeeded as an engineer and analyst in a <i>software startup</i> as a <i>first data hire</i>.
-    Ideated, co-designed and implemented Autopilot's <i>data-loop</i>, an interactive web app
-    for business intelligence. This also allowed to merge <b>data & domain knowledge</b>,
-    allowing teams to <b>save more than 1000 hours</b> of unreproducible manual work,
-    and contributing to define a clear data strategy. <i>Promoted</i> by the initiative of the
-    director of engineering, as a recognition for the hard work, and the ability to
-    execute the company’s data strategy.
+    Ideated, co-designed and built Autopilot's <i>data-loop</i>, a custom BI app
+    that surfaced relevant information and <b>saved +1000 hours</b> of unreproducible manual work.
+    <b>Promoted</b> by the director of engineering for distinguished contributions to the
+    company’s data strategy.
 
 - award:
   organization: Autopilot (Data Science)
   year: March 2018 - September 2018
   summary: >
-    Worked cross-functionally to implement <i>anomaly detection</i> and <i>ranking</i> alogirithms,
+    Worked on <i>anomaly detection</i> and <i>ranking</i> alogirithms,
     effective <i>data visualisations</i>, and product releases to more than <i>20,000 users</i>.
 
 - award:
   organization: Autopilot (Data Engineering)
-  year: September 2018 &mdash; Jannuary 2019
+  year: September 2018 - Jannuary 2019
   summary: >
-    Designed infrastructure to replaced legacy ETL (bash) with a self-hosted, docker-based
-    <i>Apache Airflow</i> multi-cloud application. Leveraged Google's SQL interface to mapreduce (BigQuery),
+    Replaced legacy ETL pipelines (bash) with self-hosted, docker-based <i>Apache Airflow</i>
+    multi-cloud application. Leveraged Google's SQL interface to mapreduce (BigQuery),
     to reduced the data aggregation time <b>from 3 hours to 8 seconds</b> at the cost of a few cents.
 
 - award:
   organization: Autopilot (Data Science)
-  year: Jannuary 2019 &mdash; August 2019
+  year: Jannuary 2019 - August 2019
   summary: >
-    Built datasets to model <b>user engagement</b>, personalize marketing and
-    nurture customers, with the goal to <b>reduce churn</b>.
+    Built datasets to model <b>user engagement</b>, personalize marketing and nurture customers,
+    with the goal to <b>reduce churn</b>.
 
 - award:
   organization: The University of Sydney (Physics)
-  year: 2014 &mdash; 2018
+  year: 2014 - 2018
   summary: >
     Recipient of three awards for distinguished <b>academic performance</b>. Invited speaker at
     the <b>Max Plank Institute for Light</b> to present advances in quantum optics. Completed a PhD
@@ -45,14 +51,14 @@
 
 - award:
   organization: The University of Sydney (Machine Learning)
-  year: 2015 &mdash; 2015
+  year: 2015 - 2015
   summary: >
     Devised a distributed and decentralized learning algorithm based on <b>reinforcement learning (RL)</b>
     to solve computationally intractable problems (NP-hard) in cellular networks.
 
 - award:
   organization: German Aerospace Agency (Software Engineering)
-  year: 2011 &mdash; 2012
+  year: 2011 - 2012
   summary: >
     Contributed to a multimillion-dollar software project with the EU to model,
     quantify, and simulate noise and interference in MIMO satellite systems,
