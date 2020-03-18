@@ -1,27 +1,48 @@
 # Jobs
-- company: Sendle
+- company: <a href="https://www.sendle.com/" target="_blank">Sendle</a>
   position: Data Engineer
-  duration: October 2019 - Present
+  duration: October 2019 - April 2020
   environment: >
     <h4>ENVIRONMENT</h4>
     <ul class="resume-item-list">
-      <li>Logistics Scaleup - Tech - (B2B, B2C)</li>
-      <li>Reporting to CTO and Tech Lead</li>
-      <li>Hired to redesign the company's data analytics architectures</li>
+      <li>Tech scaleup - SMBs - (B2B, B2C)</li>
+      <li>Reporting to Tech Lead and CTO</li>
+      <li>Role: Redesign the company data warehouse from scratch</li>
     </ul>
   responsibilities: >
     <h4>KEY RESPONSIBILITIES</h4>
-    Build a new analytics system to ingest, transform, document, version control,
-    explore, and audit the company's data. Owner of the data ingestion and transformation layers.
+    A proprietary BI platform has been used for over 3 years for data ingestion,
+    trasnformation and visualization. However, <b>trust</b> in the data was hindered by long sync-times, incomplete data, slow changes, poor data lineage, poor documentation, and the lack of automated tests to guarantee data integrity. This role was created to design an analytics architecture to  <b>catalog, document, transform, version control, interrogate, visualise, share, and audit</b> the company
+     data securely and at scale.
 
   achievements: >
-  <h4>KEY ACHIEVEMENTS</h4>
-  <ul class="resume-item-list">
-    <li>TODO></li>
-    <li>TODO></li>
-  </ul>
+    <h4>KEY ACHIEVEMENTS</h4>
+    <ul class="resume-item-list">
+      <li>Researched, designed, deployed, and executed a cloud-based, secure,
+      scalable, and highly-performing data warehouse system. Highlights:
+          <ul class="resume-item-list">
+            <li><b>transparent and auditable</b> transformations, documentation and data lineage</li>
+            <li><b>consistent schema</b> design based on dimensional modelling</li>
+            <li><b>automated tests</b> for data-integrity</li>
+            <li><b>all</b> data sources integrated into one warehouse</li>
+            <li><b>24x</b> shorter sync time</li>
+          </ul>
+      </li>
+      <li>
+      Proposed a three-stages process to support experimental (spreadhseets) and established (warehouse) data models.
+      </li>
+      <li>
+      Trained devs and analysts on different aspects of the system, adapting language and technical details for the respective audiences.
+      </li>
+      <li>
+      Automated manual data uploads, improved access control and documentation, coordinated the removal or encryption of PIIs.
+      </li>
+      <li>
+      Executed custom data wrangling pipelines (Survey Monkey datasets). This involved mapping the data lineage, cleaning, transforming and loading data into snowflake, as well as writing DBT models based on facts and dimensions.
+      </li>
+    </ul>
 
-- company: Autopilot
+- company: <a href="https://www.autopilothq.com/" target="_blank">Autopilot</a>
   position: Data Engineer & Data Analyst
   duration: March 2018 - September 2019
   environment: >
@@ -66,7 +87,7 @@
     </ul>
 
 
-- company: The University of Sydney
+- company: <a href="https://www.sydney.edu.au/science/schools/school-of-physics.html" target="_blank">USYD</a>
   position: Assistant Lecturer and Researcher
   duration: 2013 - 2014
   environment: >
@@ -89,8 +110,7 @@
       <li>Worked as assistant lecturer and tutored students in experimental physics</li>
     </ul>
 
-
-- company: German Aerospace Agency (DLR)
+- company: <a href="https://www.dlr.de/EN/Home/home_node.html" target="_blank">German Aerospace Agency</a>
   position: Research Intern
   duration: 2011 - 2012
   environment: >
@@ -113,24 +133,3 @@
       impact of equalisation and scheduling on transmission performance</li>
       <li>Contributed in publishing the work in two major conferences in the field</li>
     </ul>
-
-
-  # - company:
-  #   position:
-  #   duration: FROM - TO
-  #   environment: >
-  #     <h4>ENVIRONMENT</h4>
-  #     <ul class="resume-item-list">
-  #       <li>First line</li>
-  #       <li>>Second line</li>
-  #     </ul>
-  #   responsibilities: >
-  #     <h4>KEY RESPONSIBILITIES</h4>
-  #     Short paragraph in period form to describe why you were hired.
-  #   achievements: >
-  #     <h4>KEY ACHIEVEMENTS</h4>
-  #     <ul class="resume-item-list">
-  #       <li>First acievement</li>
-  #       <li>Second acievement</li>
-  #       <li>Third acievement</li>
-  #     </ul>
