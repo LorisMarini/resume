@@ -33,7 +33,7 @@ I made some changes to the structure of the content in `_data` and `_layouts/res
 ## Ruby environment
 
 If you are on macOS chances are you will run into issues when trying to make changes to the system ruby at `/usr/bin/ruby`. As suggested in this [stack-exchange thread](https://stackoverflow.com/questions/51126403/you-dont-have-write-permissions-for-the-library-ruby-gems-2-3-0-directory-ma), I recommend installing another version of ruby and control it with a ruby version manager.
-Popular options are *RVM*, *rbenv* and *chruby*, I chose the latter because I like transparency, predictability and control. For a more in depth discussion and guidelines see this blog post by [Steve Marshall](https://stevemarshall.com/journal/why-i-use-chruby/). To get that going:
+Popular options are *RVM*, *rbenv* and *chruby*, I chose the latter because I like transparency, predictability and control. I also installed ruby with [ruby-install](https://www.ruby-lang.org/en/documentation/installation/#ruby-install) which works well with chruby. For a more in depth discussion and guidelines see this blog post by [Steve Marshall](https://stevemarshall.com/journal/why-i-use-chruby/). To get that going:
 
 ```
 brew update
