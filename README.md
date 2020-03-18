@@ -1,13 +1,13 @@
 # Resume
-*Resume template powered by Jekyll + GitHub Pages. Project cloned and adapted from [jglovier](https://github.com/jglovier/resume-template)*.
+*Resume template powered by Jekyll + GitHub Pages. Cloned and adapted from [jglovier](https://github.com/jglovier/resume-template)*.
 
 ![img](social_preview.png)
 
 ## Quick Start
 
-To test locally, run the following in your terminal:
+Make sure you have an appropriate [version of ruby](#ruby-environment) installed. To run locally:
 
-1. Clone repo locally
+1. clone repo
 1. `bundle install` (uses [bundler](https://bundler.io/) to install the project dependencies specified in the Gemfile(s))
 2. `bundle exec jekyll serve`
 3. Open your browser to `localhost:4000`
