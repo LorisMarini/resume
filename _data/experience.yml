@@ -38,7 +38,7 @@
       Automated manual data uploads, improved access control and documentation, coordinated the removal or encryption of PIIs.
       </li>
       <li>
-      Executed custom data wrangling pipelines (Survey Monkey datasets). This involved mapping the data lineage, cleaning, transforming and loading data into snowflake, as well as writing DBT models based on facts and dimensions.
+      Owned custom data wrangling pipelines to clean, reshape and load data into Snowflake, as well as writing DBT models.
       </li>
     </ul>
 
@@ -55,35 +55,42 @@
     </ul>
   responsibilities: >
     <h4>KEY RESPONSIBILITIES</h4>
-    Responsible for the design, implementation, and deployment of anomaly detection models
-    and reporting tools to empower and engage users. Write production-ready
-    code including automated testing and deployment. Help identify ways to extract value from
-    the product metadata and summarise key outcomes with rigorous and compelling presentations
-    to relevant stakeholders.
+    Responsible for the design, implementation, and deployment of anomaly detection models and reporting tools to empower and engage users. Write production-ready code including automated testing and deployment. Help identify ways to extract value from the product metadata and summarise key outcomes with rigorous and compelling presentations to relevant stakeholders.
   achievements: >
     <h4>KEY ACHIEVEMENTS</h4>
     <ul class="resume-item-list">
       <li>Proposed initiatives to extract value from structured and unstructured data, shipping code
-       using <b>Docker</b>, <b>Python</b>, <b>CICD</b> and <b>automated testing</b></li>
-      <li>Promoted to <b>Senior</b>, as a recognition for the ability to lead the company data vision</li>
-      <li>Proactively researched and implemented ETL pipelines in Apache <b>Airflow</b>, replacing bash scripting,
-       and enabling horizontal scaling of resources via <b>k8s</b></li>
-      <li>Led the design provisioning and implementation of an analytics warehouse for <b>ELT</b> based on Google <b>BigQuery</b>,
-       to enable flexible and cost-effective queries and overcome the constraints of single-node in-memory operations</li>
-      <li>Led continuous improvements to the data architecture, first in AWS with services such as <b>ec2</b>, <b>s3</b>,
-       <b>kinesis</b>, then in GCP with <b>vms</b>, <b>gcs</b>, <b>gke</b>, <b>sql</b> and <b>k8s</b></li>
-      <li>Initiated work to securely handle sensitive information first through transparent encryption with
-       transcrypt then with managed enterprise services such as Hashicorp <b>Vault</b></li>
-      <li>Modelled and measured product metadata to identify friction, engagement, proficiency, and
-       effectiveness, and support data-driven decision-making</li>
-      <li>Designed and implemented the Autopilot data loop, an interactive web app based on <b>Dash</b> and <b>Plotly</b>
-       to inform success and marketing teams, and <b>save hundreds of hours</b> of manual operations</li>
-      <li>Helped CEO with cost forecasting, and prototyped ways to automate the user onboarding process
-       to free resources. Modelled <b>expansion and contraction</b> and measured the effect of various pricing changes over time</li>
-      <li>Prototyped a system to measure user proficiency and inform a personalised recommendation engine
-       to maximise engagement and <b>customer lifetime value</b></li>
-      <li>Contributed to hiring and played an important role in reinforcing a culture of collaboration,
-       inclusion and critical thinking</li>
+       using <b>Docker</b>, <b>Python</b>, <b>CICD</b> and <b>automated testing</b>
+      </li>
+      <li>
+      Promoted as a recognition for the ability to lead the company data vision
+      </li>
+      <li>
+      Replaced bash scripts and owned ETL pipelines in <b>Apache Airflow</b>, paird with a DevOps engineer to enable horizontal scaling of resources deploying to a <b>kuberentes</b> cluster
+      </li>
+      <li>
+      Led the design provisioning and implementation of an analytics warehouse for <b>ELT</b> based on Google <b>BigQuery</b>, to enable flexible and cost-effective queries and overcome the constraints of single-node in-memory operations
+      </li>
+      <li>
+      Led continuous improvements to the data architecture, first in AWS with services such as <b>ec2</b>, <b>s3</b>, <b>kinesis</b>, then in GCP with <b>vms</b>, <b>gcs</b>, <b>gke</b>, <b>sql</b> and <b>k8s</b>
+      </li>
+      <li>
+      Initiated work to securely handle sensitive information first through transparent encryption with transcrypt then with managed enterprise services such as Hashicorp <b>Vault</b>
+      </li>
+      <li>
+      Modelled and measured product metadata to identify friction, engagement, proficiency, and effectiveness, and support data-driven decision-making
+      </li>
+      <li>
+      Designed and implemented the Autopilot data loop, an interactive web app based on <b>Dash</b> and <b>Plotly</b> to inform success and marketing teams, and <b>save hundreds of hours</b> of manual operations
+      </li>
+      <li>
+      Helped CEO with cost forecasting, and prototyped ways to automate the user onboarding process to free resources. Modelled <b>expansion and contraction</b> and measured the effect of various pricing changes over time
+      </li>
+      <li>
+      Prototyped a system to measure user proficiency and inform a personalised recommendation engine to maximise engagement and <b>customer lifetime value</b>
+      </li>
+      <li>Contributed to hiring and played an important role in reinforcing a culture of collaboration, inclusion and critical thinking
+      </li>
     </ul>
 
 
@@ -93,21 +100,29 @@
   environment: >
     <h4>ENVIRONMENT</h4>
     <ul class="resume-item-list">
-      <li>Research team - School of Electrical Engineering</li>
-      <li>>20 PhD and Post Doctorates, hundreds of postgraduate engineering students</li>
+      <li>
+      Research team - School of Electrical Engineering
+      </li>
+      <li>>
+      20 PhD and Post Doctorates, hundreds of postgraduate engineering students
+      </li>
     </ul>
   responsibilities: >
     <h4>KEY RESPONSIBILITIES</h4>
-    Conduct cutting-edge research in reinforcement learning and distributed systems. Produce scientific reports
-    and present the work at international conferences. Supervise and mentor post-graduate students and help
+    Conduct cutting-edge research in reinforcement learning and distributed systems. Produce scientific reports and present the work at international conferences. Supervise and mentor post-graduate students and help
     coordinate research projects.
   achievements: >
     <h4>KEY ACHIEVEMENTS</h4>
     <ul class="resume-item-list">
-      <li>Applied state-of-art reinforcement learning (RL) to distributed systems, and demonstrated
-      linear-time solutions of computationally intractable problems (non-polynomial hard)</li>
-      <li>Presented the work to two leading international conferences (ICC, ICT)</li>
-      <li>Worked as assistant lecturer and tutored students in experimental physics</li>
+      <li>
+      Applied state-of-art reinforcement learning (RL) to distributed systems, and demonstrated linear-time solutions of computationally intractable problems (non-polynomial hard)
+      </li>
+      <li>
+      Presented the work to two leading international conferences (ICC, ICT)
+      </li>
+      <li>
+      Worked as assistant lecturer and tutored students in experimental physics
+      </li>
     </ul>
 
 - company: <a href="https://www.dlr.de/EN/Home/home_node.html" target="_blank">German Aerospace Agency</a>
@@ -121,15 +136,16 @@
     </ul>
   responsibilities: >
     <h4>KEY RESPONSIBILITIES</h4>
-    Join a four-year European project to increase throughput in geostationary satellite communications.
-    Understand the complex mathematical frameworks used to describe interference in multi-beam MIMO
-    channels and write software to numerically validate predictions. Present regular updates to all
+    Join a four-year European project to increase throughput in geostationary satellite communications. Understand the complex mathematical frameworks used to describe interference in multi-beam MIMO channels and write software to numerically validate predictions. Present regular updates to all
     researchers, summarise key findings in an official technical report.
 
   achievements: >
     <h4>KEY ACHIEVEMENTS</h4>
     <ul class="resume-item-list">
-      <li>Demonstrated effective ways to extract information from noise, and rigorously quantified the
-      impact of equalisation and scheduling on transmission performance</li>
-      <li>Contributed in publishing the work in two major conferences in the field</li>
+      <li>
+      Demonstrated effective ways to extract information from noise, and rigorously quantified the impact of equalisation and scheduling on transmission performance
+      </li>
+      <li>
+      Contributed in publishing the work in two major conferences in the field
+      </li>
     </ul>

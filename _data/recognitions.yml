@@ -1,63 +1,49 @@
 # Recognitions
 
 - award:
-  organization: Sendle (Data Engineering)
+  organization: Sendle - Data and Analytics Engineering
   year: October 2019 - Jannuary 2020
   summary: >
-    Redesigned the data analytics architecture based on Fivetran, Snowflake, DBT and Tableau.
-    Conducted user interviews, authored documentation, prepared training material, and led a
-    multi-disciplinary data team to migrate models and dashboards in the new system.
+    Designed a state-of-the-art data analytics architecture based on Fivetran, Snowflake, DBT and Tableau. Conducted user interviews, authored documentation, prepared training material, and led a multi-disciplinary data team to migrate models and dashboards in the new system.
 
 - award:
-  organization: Autopilot
+  organization: Autopilot - Data Science
   year: 2018 - 2019
   summary: >
-    Succeeded as an engineer and analyst in a <i>software startup</i> as a <i>first data hire</i>.
-    Ideated, co-designed and built Autopilot's <i>data-loop</i>, a custom BI app
-    that surfaced relevant information and <b>saved +1000 hours</b> of unreproducible manual work.
-    <b>Promoted</b> by the director of engineering for distinguished contributions to the
-    company’s data strategy.
+    <ul class="resume-item-list">
+      <li>
+      Released machine learning algorithms to <b>+20,000 customers</b> (anomaly detection, ranking and recomendation alogirithms)
+      </li>
+      <li>
+      Decreased the data aggregation time in legacy pipelines <b>1300-fold</b> the cost of cents/query, by leveraging the distrubuted computational power of Google BigQuery.
+      </li>
+      <li>
+      Designed 360 customer views to model <b>engagement</b>, personalize marketing and <b>reduce churn</b>.
+      </li>
+      <li>
+      Ideated co-designed and built a custom BI dashboard to <b>save +1000 hours</b> of unreproducible manual work.
+      </li>
+      <li>
+      Succeeded as an engineer and analyst in a tech startup as a <b>first data hire</b> and <b>Promoted</b> for distinguished contributions to the company’s data strategy.
+      </li>
+    </ul>
+
 
 - award:
-  organization: Autopilot (Data Science)
-  year: March 2018 - September 2018
-  summary: >
-    Worked on <i>anomaly detection</i> and <i>ranking</i> alogirithms,
-    effective <i>data visualisations</i>, and product releases to more than <i>20,000 users</i>.
-
-- award:
-  organization: Autopilot (Data Engineering)
-  year: September 2018 - Jannuary 2019
-  summary: >
-    Replaced legacy ETL pipelines (bash) with self-hosted, docker-based <i>Apache Airflow</i>
-    multi-cloud application. Leveraged Google's SQL interface to mapreduce (BigQuery),
-    to reduced the data aggregation time <b>from 3 hours to 8 seconds</b> at the cost of a few cents.
-
-- award:
-  organization: Autopilot (Data Science)
-  year: Jannuary 2019 - August 2019
-  summary: >
-    Built datasets to model <b>user engagement</b>, personalize marketing and nurture customers,
-    with the goal to <b>reduce churn</b>.
-
-- award:
-  organization: The University of Sydney (Physics)
+  organization: USYD - Physics
   year: 2014 - 2018
   summary: >
-    Recipient of three awards for distinguished <b>academic performance</b>. Invited speaker at
-    the <b>Max Plank Institute for Light</b> to present advances in quantum optics. Completed a PhD
-    in experimental <b>quantum physics</b>, demonstrating effective resource management skills,
-    perseverance in the face of uncertainty, and rigour.
+    Recipient of three awards for distinguished <b>academic performance</b>. Invited speaker at the <b>Max Plank</b> institute for light, to present advances in quantum optics. Completed a PhD in experimental <b>quantum physics</b>, demonstrating resource management skills,
+    resilience, leadership, and rigour.
 
 - award:
-  organization: The University of Sydney (Machine Learning)
+  organization: USYD - Machine Learning
   year: 2015 - 2015
   summary: >
-    Devised a distributed and decentralized learning algorithm based on <b>reinforcement learning (RL)</b>
-    to solve computationally intractable problems (NP-hard) in cellular networks.
+    Applied <b>reinforcement learning (RL)</b> to solve computationally intractable problems (NP-hard) in cellular networks in a distributed and decentralized fascion.
 
 - award:
-  organization: German Aerospace Agency (Software Engineering)
+  organization: German Aerospace Agency
   year: 2011 - 2012
   summary: >
     Contributed to a multimillion-dollar software project with the EU to model,
