@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3ab73d4a-cf52-4fb2-bdc7-4e085a3f302a/deploy-status)](https://app.netlify.com/sites/stupefied-benz-ea94a9/deploys)
+
 # Resume
 *Resume template powered by Jekyll + GitHub Pages. Cloned and adapted from [jglovier](https://github.com/jglovier/resume-template)*.
 
